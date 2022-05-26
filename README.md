@@ -11,7 +11,7 @@ Fort Collins, CO 80523
 
 ## Speakers and Topics
 
-**Erin Nishimura - ...
+**Erin Nishimura** - ...
 
 Andrew Moore
 
