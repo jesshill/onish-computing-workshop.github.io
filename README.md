@@ -23,7 +23,9 @@ Fort Collins, CO 80523
 
 ## Resources
 
-Check 
+Please check out the following resources.
 
 > [A field guide to cultivating computational biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001419)
+> ...
+> ...
 
