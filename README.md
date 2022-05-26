@@ -6,11 +6,11 @@ We are excited to host this years computing workshop in person! The workshop wil
 
 ## Speakers and Topics 
 
-### **Erin Nishimura** - ... (update title as you see fit)
+#### Erin Nishimura - ... (update title as you see fit)
 
 Erin will discuss ...
 
-### **Jessica Hill** - Computer systems 
+#### Jessica Hill - Computer systems 
 
 Jessica will discuss ...
 
