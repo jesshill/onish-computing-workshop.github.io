@@ -9,17 +9,21 @@ MRB building address:
 200 West Lake Street
 Fort Collins, CO 80523
 
-## Speakers and Topics
+## Speakers and Topics 
 
-**Erin Nishimura** - ...
+**Erin Nishimura** - ... (update title as you see fit)
 
-Andrew Moore
+**Jessica Hill** - Computer systems 
 
-Jessica Hill
+**David King** - ... (update title as you see fit)
 
-David King
+**Andrew Moore** - Programming languages and their usage (update title as you see fit)
 
-Robert Williams 
+**Robert Williams** - Working on Github (update title as you see fit)
 
 ## Resources
+
+Check 
+
+> [A field guide to cultivating computational biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001419)
 
