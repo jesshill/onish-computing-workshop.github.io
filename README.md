@@ -7,16 +7,24 @@ We are excited to host this years computing workshop in person! The workshop wil
 ## Speakers and Topics 
 
 **Erin Nishimura** - ... (update title as you see fit)
-Erin will 
+
+Erin will discuss ...
 
 **Jessica Hill** - Computer systems 
-Jessica will
+
+Jessica will discuss ...
 
 **David King** - ... (update title as you see fit)
 
+David will demonstrate ...
+
 **Andrew Moore** - Programming languages and their usage (update title as you see fit)
 
+Andrew will demonstrate ...
+
 **Robert Williams** - Working on Github (update title as you see fit)
+
+Rob will demonstrate ...
 
 ## Resources
 
