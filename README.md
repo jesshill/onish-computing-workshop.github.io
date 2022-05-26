@@ -14,15 +14,15 @@ Erin will discuss ...
 
 Jessica will discuss ...
 
-**David King** - ... (update title as you see fit)
+#### David King - ... (update title as you see fit)
 
 David will demonstrate ...
 
-**Andrew Moore** - Programming languages and their usage (update title as you see fit)
+#### Andrew Moore - Programming languages and their usage (update title as you see fit)
 
 Andrew will demonstrate ...
 
-**Robert Williams** - Working on Github (update title as you see fit)
+#### Robert Williams - Working on Github (update title as you see fit)
 
 Rob will demonstrate ...
 
