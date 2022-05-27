@@ -1,5 +1,39 @@
 ## Welcome to the Onish Summer Computing Workshop 2022
 
+Welcome to the Onish Summer Computing Workshop 2022!
+Every summer, the Osborne-Nishimura lab does a summer workshop series, and it has grown every year! This summer we are focusing on different topics related to computer literacy and computing basics.
+
+We are excited to host this years computing workshop in person! The workshop will be held on 'date' from 'time' to 'time' am/pm. Join us in the Molecular and Radiological Biosciences (MRB) buidling at CSU in room 312.
+
+Speakers and Topics
+Erin Nishimura - ... (update title as you see fit)
+Erin will discuss ...
+
+Jessica Hill - Computer systems
+Jessica will discuss ...
+
+David King - ... (update title as you see fit)
+David will demonstrate ...
+
+Andrew Moore - Programming languages and their usage (update title as you see fit)
+Andrew will demonstrate ...
+
+Robert Williams - Working on Github (update title as you see fit)
+Rob will demonstrate ...
+
+Resources
+Please check out the following resources.
+
+A field guide to cultivating computational biology
+
+aaa
+
+aaa
+
+
+
+# KEEP THEIR NOTES
+
 You can use the [editor on GitHub](https://github.com/jesshill/onish-computing-workshop.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
