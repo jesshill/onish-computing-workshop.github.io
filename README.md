@@ -36,3 +36,9 @@ Please check out the following resources.
 
 > aaa
 
+
+## Site viewing and editing
+
+The rendered site is at: https://jesshill.github.io/onish-computing-workshop.github.io/
+
+Edit the index.md file to make changes.
