@@ -2,7 +2,9 @@
 
 Every summer, the Osborne-Nishimura lab does a summer workshop series, and it has grown every year! This summer we are focusing on different topics related to computer literacy and computing basics. 
 
-We are excited to host this years computing workshop in person! The workshop will be held on 'date' from 'time' to 'time' am/pm. Join us in the [Molecular and Radiological Biosciences](https://goo.gl/maps/e9LsEpLVtt4xpX8Z7) (MRB) building at CSU in room 312.
+We are excited to host this years computing workshop in person! The workshop will be held on **Wednesday, July 20th** from **1pm** to **3pm**. There will be a mixer afterward!
+
+Join us in the [Molecular and Radiological Biosciences](https://goo.gl/maps/e9LsEpLVtt4xpX8Z7) (MRB) building at CSU in room 312.
 
 ## Speakers and Topics 
 
