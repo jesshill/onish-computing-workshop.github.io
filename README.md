@@ -6,9 +6,9 @@ We are excited to host this years computing workshop in person! The workshop wil
 
 ## Speakers and Topics 
 
-#### Erin Nishimura - ... (update title as you see fit)
+#### Naly Torres - M.C 
 
-Erin will discuss ...
+Naly will introduce the speakers and do other stuff.
 
 #### Jessica Hill - Computer systems 
 
