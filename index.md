@@ -6,11 +6,15 @@ We are excited to host this years computing workshop in person! The workshop wil
 
 Join us in the [Molecular and Radiological Biosciences](https://goo.gl/maps/e9LsEpLVtt4xpX8Z7) (MRB) building at CSU in room 312.
 
+## Sign up form
+
+[SIGN UP FORM](signup.html)
+
 ## Speakers and Topics 
 
 ### Naly Torres - M.C 
 
-Naly will introduce the speakers and do other stuff.
+Naly will introduce the speakers and provide personality.
 
 ### Jessica Hill - Computer systems 
 
@@ -34,12 +38,8 @@ Please check out the following resources.
 
 [A field guide to cultivating computational biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001419)
 
-
-
-## Site viewing and editing
+## Info for presenters
 
 The rendered site is at: https://jesshill.github.io/onish-computing-workshop.github.io/
 
 Edit the index.md file to make changes.
-
-[SIGN UP](signup.html)
