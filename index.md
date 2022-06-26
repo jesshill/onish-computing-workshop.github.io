@@ -16,7 +16,7 @@ Join us in the [Molecular and Radiological Biosciences](https://goo.gl/maps/e9Ls
 
 Naly will introduce the speakers and provide personality.
 
-### Jessica Hill - Computer systems 
+### Jessica Hill - Computer Systems 
 
 Jessica will discuss ...
 
@@ -24,11 +24,11 @@ Jessica will discuss ...
 
 David will discuss ...
 
-### Andrew Moore - Programming languages and their usage (update title as you see fit)
+### Andrew Moore - Programming Languages and Their Usages
 
 Andrew will discuss ...
 
-### Robert Williams - Working on Github (update title as you see fit)
+### Robert Williams - Working on Github
 
 Rob will discuss ...
 
