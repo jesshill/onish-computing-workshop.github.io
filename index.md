@@ -8,7 +8,7 @@ Join us in the [Molecular and Radiological Biosciences](https://goo.gl/maps/e9Ls
 
 ## Sign up form
 
-[SIGN UP FORM](signup.html)
+[SIGN UP FORM](https://colostate.az1.qualtrics.com/jfe/form/SV_6SbbpwjucRLzQJU)
 
 ## Speakers and Topics 
 
