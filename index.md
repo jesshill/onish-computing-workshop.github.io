@@ -14,7 +14,7 @@ Then please complete this [SIGN UP FORM](https://colostate.az1.qualtrics.com/jfe
 
 ## Speakers and Topics 
 
-### Naly Torres - M.C 
+### Naly Torres - Host
 
 Naly will introduce the speakers and provide personality.
 
