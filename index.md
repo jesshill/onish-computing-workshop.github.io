@@ -18,7 +18,7 @@ Want to attend? Please complete this sign up form.
 
 Naly will introduce the speakers and provide personality.
 
-### Jessica Hill - Computer Systems 
+### Jessica Hill - Computing Systems 
 
 Jessica will discuss ...
 
