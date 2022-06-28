@@ -36,7 +36,7 @@ Rob will discuss ...
 
 ## Resources
 
-Please check out the following resources.
+Please check out the following resources:
 
 [A field guide to cultivating computational biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001419)
 
