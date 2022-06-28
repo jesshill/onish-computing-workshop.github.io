@@ -1,5 +1,3 @@
-_Contributers: edit this file to make changes._
-
 # Welcome to the Onish Summer Computing Workshop 2022!
 
 Every summer, the Osborne-Nishimura lab does a summer workshop series, and it has grown every year! This summer we are focusing on different topics related to computer literacy and computing basics. 
