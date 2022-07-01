@@ -2,11 +2,11 @@
 
 Every summer, the Osborne-Nishimura lab does a summer workshop series, and it has grown every year! This summer we are focusing on different topics related to computer literacy and computing basics. 
 
-This years workshop is geared towards anyone interested in learning more about computers and computing and does not require prior computer science experience (though that never hurts). We encourgae people at all career stages (i.e. undergraduate, graduate, postdoc, PI) to attend and participate. 
+This year's workshop is geared towards anyone interested in learning more about computers and computing and does not require prior computer science experience (though that never hurts). We encourgae people at all career stages (i.e. undergraduate, graduate, postdoc, PI) to attend and participate. 
 
-We will introduce computer science concepts, give you a tour of computer hardware, learn more about different programming languages, and introduce GitHub as a way to collaborate. The overall goals being that both participants and presenters learn more about computing and computers along the way, to facilitate networking and collaboration among attendess, and encourage data sharing and reproducibility. 
+We will introduce computer science concepts, give you a tour of computer hardware, learn more about different programming languages, and introduce GitHub as a way to collaborate. The overall goals are that both participants and presenters learn more about computing and computers along the way, to facilitate networking and collaboration among attendess, and encourage data sharing and reproducibility. 
 
-We are very excited to host this years computing workshop in person! The workshop will be held on **Wednesday, July 20th** from **1pm** to **3pm**. Join us in the [Molecular and Radiological Biosciences](https://goo.gl/maps/e9LsEpLVtt4xpX8Z7) (MRB) building at CSU in room 312. There will also be a  mixer afterward!
+We are very excited to host this year's computing workshop in person! The workshop will be held on **Wednesday, July 20th** from **1pm** to **3pm**. Join us in the [Molecular and Radiological Biosciences](https://goo.gl/maps/e9LsEpLVtt4xpX8Z7) (MRB) building at CSU in room 312. There will also be a  mixer afterward!
 
 Following the workshop, we will send out a short survey to get your feedback so please keep an eye on your inbox! 
 
@@ -34,11 +34,11 @@ Andrew will present an overview of various types of programming languages and th
 
 ### David King - Installation and Package Mangement (2 - 2:30 pm)
 
-David will present on software instillation, dealing with software dependencies during instillation, and how to establish project environments with Conda. 
+David will present on software instillation, dealing with software dependencies during installation, and how to establish project environments with Conda. 
 
 ### Robert Williams - Working on GitHub (2:30 - 3 pm)
 
-Rob will introduce GitHub as a tool and resource for researchers, how to manage data and projects on GitHub, and how to share and facilitate collaborations through GitHub. He will also discuss how GitHub can help researches track and reproduce their data.
+Rob will introduce GitHub as a tool and resource for researchers, how to manage data and projects on GitHub, and how to share and facilitate collaborations through GitHub. He will also discuss how GitHub can help researchers track and reproduce their data.
 
 ## Mixer 
 
