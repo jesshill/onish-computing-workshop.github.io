@@ -32,7 +32,7 @@ Jessica will present an overview of computing systems, including the different t
 
 Andrew will present an overview of various types of programming languages and their usages, with an emphasis on how different languages can be applied to different research questions and problems. 
 
-### David King - ... (2 - 2:30 pm)
+### David King - Installation and Package Mangement (2 - 2:30 pm)
 
 David will present on software instillation, dealing with software dependencies during instillation, and how to establish project environments with Conda. 
 
@@ -42,7 +42,7 @@ Rob will introduce GitHub as a tool and resource for researchers, how to manage 
 
 ## Mixer 
 
-Following the workshop, join us for a light mixer. Stay to meet other researchers across campus with similar interests or hang out and ask more questions. 
+Following the workshop, join us for a light mixer. Stay to meet other researchers across campus with similar interests or hangout and ask more questions. 
 
 ## Resources
 
