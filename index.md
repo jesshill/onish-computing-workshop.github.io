@@ -48,6 +48,10 @@ Rob will introduce GitHub as a tool and resource for researchers, how to manage 
 
 Following the workshop, join us for a light mixer. Stay to meet other researchers across campus with similar interests or hangout and ask more questions. 
 
+<p align="center">
+<img width="410" alt="website_picture" src="https://user-images.githubusercontent.com/41451575/176984931-bca895ae-ad90-43e8-9d46-326ec16a113a.png">
+</p>
+
 ## Resources
 
 Please check out the following resources:
