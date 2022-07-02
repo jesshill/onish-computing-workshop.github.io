@@ -1,5 +1,9 @@
 # Welcome to the Onish Summer Computing Workshop 2022!
 
+<p align="center">
+<img width="410" alt="website_picture" src="https://user-images.githubusercontent.com/41451575/176984193-dbb25cbe-8443-44a4-800b-1cb72febe81a.png">
+</p>
+  
 Every summer, the Osborne-Nishimura lab does a summer workshop series, and it has grown every year! This summer we are focusing on different topics related to computer literacy and computing basics. 
 
 This year's workshop is geared towards anyone interested in learning more about computers and computing and does not require prior computer science experience (though that never hurts). We encourgae people at all career stages (i.e. undergraduate, graduate, postdoc, PI) to attend and participate. 
