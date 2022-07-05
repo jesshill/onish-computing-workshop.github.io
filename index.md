@@ -28,7 +28,7 @@ Currently, participants do not need to install or prepare anything ahead of the 
 
 Naly will introduce the speakers and provide personality.
 
-### Jessica Hill - Computing Systems (1 - 1:30 pm)
+### Jessica Hill - Intro Computing Systems and Hardware (1 - 1:30 pm)
 
 Jessica will present an overview of computing systems, including the different types of systems, how to interact with them, and how they can be utilized for research. 
 
