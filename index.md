@@ -31,6 +31,7 @@ Naly will introduce the speakers and provide personality.
 ### Jessica Hill - Intro Computing Systems and Hardware (1 - 1:30 pm)
 
 Jessica will present an overview of computing systems, including the different types of systems, how to interact with them, and how they can be utilized for research. 
+
 [see link for slides](https://github.com/jesshill/onish-computing-workshop.github.io/files/9152611/ComputingSystems_JLH_full.notes.pptx)
 
 ### Andrew Moore - Programming Languages and Their Usages (1:30 - 2 pm)
