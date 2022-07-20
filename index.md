@@ -50,6 +50,9 @@ David will present on software instillation, dealing with software dependencies 
 
 Rob will introduce GitHub as a tool and resource for researchers, how to manage data and projects on GitHub, and how to share and facilitate collaborations through GitHub. He will also discuss how GitHub can help researchers track and reproduce their data.
 
+[see link for slides](https://github.com/jesshill/onish-computing-workshop.github.io/files/9152657/220720_Github_Desktop_Demo_RTPW.pdf)
+
+
 ## Mixer 
 
 Following the workshop, join us for a light mixer. Stay to meet other researchers across campus with similar interests or hangout and ask more questions. 
