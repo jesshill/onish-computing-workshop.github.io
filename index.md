@@ -22,7 +22,7 @@ Please register by July 15th if possible so that we can get an idea of attendanc
 
 ## Speakers, Topics, and Schedule 
 
-Currently, participants do not need to install or prepare anything ahead of the workshop. Though this may change, so please check back closer to the workshop date to find any updates. **Please bring a laptop to the workshop if possible.**
+Participants do not need to install or prepare anything ahead of the workshop. **Bring a laptop to the workshop if you have one, but they are not required.**
 
 ### Naly Torres - Host
 
