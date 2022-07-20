@@ -31,14 +31,19 @@ Naly will introduce the speakers and provide personality.
 ### Jessica Hill - Intro Computing Systems and Hardware (1 - 1:30 pm)
 
 Jessica will present an overview of computing systems, including the different types of systems, how to interact with them, and how they can be utilized for research. 
+[see link for slides](https://github.com/jesshill/onish-computing-workshop.github.io/files/9152611/ComputingSystems_JLH_full.notes.pptx)
 
 ### Andrew Moore - Programming Languages and Their Usages (1:30 - 2 pm)
 
 Andrew will present an overview of various types of programming languages and their usages, with an emphasis on how different languages can be applied to different research questions and problems. 
 
+[see link for slides](https://github.com/jesshill/onish-computing-workshop.github.io/files/9152612/ComputerLanguages_andrewmoore_final.pptx)
+
 ### David King - Installation and Package Mangement (2 - 2:30 pm)
 
 David will present on software instillation, dealing with software dependencies during installation, and how to establish project environments with Conda. 
+
+[see link for slides](https://github.com/jesshill/onish-computing-workshop.github.io/files/9152613/computerWorkshop2022_DCK.pptx)
 
 ### Robert Williams - Working on GitHub (2:30 - 3 pm)
 
