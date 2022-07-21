@@ -13,6 +13,7 @@ We will introduce computer science concepts, give you a tour of computer hardwar
 We are very excited to host this year's computing workshop in person! The workshop will be held on **Wednesday, July 20th** from **1pm** to **3pm**. Join us in the [Molecular and Radiological Biosciences](https://goo.gl/maps/e9LsEpLVtt4xpX8Z7) (MRB) building at CSU in room 312. There will also be a  mixer afterward!
 
 Following the workshop, we will send out a short survey to get your feedback so please keep an eye on your inbox! 
+Also, see below under **Resources** for some additional training opertunities and educational resources. 
 
 ## Sign up form
 
@@ -66,3 +67,40 @@ Following the workshop, join us for a light mixer. Stay to meet other researcher
 Please check out the following resources:
 
 [A field guide to cultivating computational biology](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001419)
+
+#### RECOMMENDED COURSES:
+
+- DSCI510 - Linux as a computational platform (Erin). 4 weeks in the Fall. 1 credit ##CURRENTLY FULL FOR Fall 2022; Next available Fall 2023
+- DSCI511 - Python (Tai). 6 weeks in the Fall 2 credits
+- DSCI512 - RNA-sequencing data analysis. 4 weeks in the fall. 1 credit
+  - All can be taken as a series. DSCI510 and 511 have NO pre-requisites
+  - The pre-req's for DSCI512 are DSCI510 OR some background with LINUX and BASH scripting
+- CM580A3 - Survey of quantitative cell and molecular biology. 1 credit. all spring semester. David King. Rotating professors. All in R
+- Undergrad level courses. I also helped to put together a concentration in data science within our major. Here is the list of courses those students take. Some of the data science courses (listed in the tables at the end) may also be of interest for grads:
+  - https://www.bmb.colostate.edu/wp-content/uploads/sites/22/2021/09/data-science-concentration-fall-2021-fnl.pdf
+- CMB also keeps a list of quantitative courses at the grad level that they recommend:
+  - https://cmb.colostate.edu/qcmb-curriculum/
+- ERHS535 - R Programming for Research
+  - No prerequisites. 
+  - Offered in the fall
+- BC571 - Quantitative Biochemistry 
+  - BC 511, may be taken concurrently.
+  - Offered in the spring
+
+#### RECOMMENDED WORKSHOPS:
+
+- RMACC computing conference - Boulder CO
+  - August 2 - 4, 2022
+  - https://hpcsymposium.rmacc.org/
+  - This is a pretty advanced-level conference, but it includes a few key beginner-level workshops - intro to HPC (High-Performance Computing) Part 1 & 2, Python for beginners part 1 & 2 (this is mainly what I'd recommend), Intro to Alpine (the new supercomputer at Boulder), and Intro to Jupyter 3 - from Noob to Pro 
+  - $30 for students; $120 everyone else
+- Morgan Library's Cookies & Coding series (will start up in the fall): 
+  - https://libguides.colostate.edu/coding-cookies
+  - Specifically for learning R
+  - they also have an R consultant on staff for individual needs
+- Research Computing Boulder training series: 
+  - https://www.colorado.edu/rc/events
+  - will start up in the fall 
+  - in person & over zoom
+  - course materials from past workshops are here: https://www.colorado.edu/crdds/learning-materials
+
