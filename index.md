@@ -92,8 +92,10 @@ Please check out the following resources:
 - RMACC computing conference - Boulder CO
   - August 2 - 4, 2022
   - https://hpcsymposium.rmacc.org/
-  - This is a pretty advanced-level conference, but it includes a few key beginner-level workshops - intro to HPC (High-Performance Computing) Part 1 & 2, Python for beginners part 1 & 2 (this is mainly what I'd recommend), Intro to Alpine (the new supercomputer at Boulder), and Intro to Jupyter 3 - from Noob to Pro 
   - $30 for students; $120 everyone else
+- Research Computing - UC Boulder
+  - https://colorado.edu/rc/userservices/training  
+  - Throughout the year they offer several beginner-level and intermediate-level workshops (i.e., intro to HPC (High-Performance Computing) Part 1 & 2; Python for beginners part 1 & 2; Intro to Alpine (the new supercomputer at Boulder), and Intro to Jupyter 3 - from Noob to Pro)  
 - Morgan Library's Cookies & Coding series (will start up in the fall): 
   - https://libguides.colostate.edu/coding-cookies
   - Specifically for learning R
@@ -103,4 +105,5 @@ Please check out the following resources:
   - will start up in the fall 
   - in person & over zoom
   - course materials from past workshops are here: https://www.colorado.edu/crdds/learning-materials
-
+- [Software Carpentry](https://software-carpentry.org/lessons/)
+- [Data Carpentry](https://datacarpentry.org/lessons/)  
